@@ -1,0 +1,13 @@
+C:\Users\Tanner\source\repos\Week 1 Chalenges\02_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tanner\source\repos\Week 1 Chalenges\02_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tanner\source\repos\Week 1 Chalenges\02_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tanner\source\repos\Week 1 Chalenges\02_Conditionals\bin\Debug\02_Conditionals.dll
+C:\Users\Tanner\source\repos\Week 1 Chalenges\02_Conditionals\bin\Debug\02_Conditionals.pdb
+C:\Users\Tanner\source\repos\Week 1 Chalenges\02_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tanner\source\repos\Week 1 Chalenges\02_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tanner\source\repos\Week 1 Chalenges\02_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tanner\source\repos\Week 1 Chalenges\02_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tanner\source\repos\Week 1 Chalenges\02_Conditionals\obj\Debug\02_Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\Tanner\source\repos\Week 1 Chalenges\02_Conditionals\obj\Debug\02_Conditionals.csproj.CopyComplete
+C:\Users\Tanner\source\repos\Week 1 Chalenges\02_Conditionals\obj\Debug\02_Conditionals.dll
+C:\Users\Tanner\source\repos\Week 1 Chalenges\02_Conditionals\obj\Debug\02_Conditionals.pdb

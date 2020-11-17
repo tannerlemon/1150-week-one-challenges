@@ -1,0 +1,14 @@
+C:\Users\Tanner\source\repos\Week 1 Chalenges\Week 1 Chalenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tanner\source\repos\Week 1 Chalenges\Week 1 Chalenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tanner\source\repos\Week 1 Chalenges\Week 1 Chalenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tanner\source\repos\Week 1 Chalenges\Week 1 Chalenges\bin\Debug\Week 1 Chalenges.dll
+C:\Users\Tanner\source\repos\Week 1 Chalenges\Week 1 Chalenges\bin\Debug\Week 1 Chalenges.pdb
+C:\Users\Tanner\source\repos\Week 1 Chalenges\Week 1 Chalenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tanner\source\repos\Week 1 Chalenges\Week 1 Chalenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tanner\source\repos\Week 1 Chalenges\Week 1 Chalenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tanner\source\repos\Week 1 Chalenges\Week 1 Chalenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tanner\source\repos\Week 1 Chalenges\Week 1 Chalenges\obj\Debug\Week 1 Chalenges.csprojAssemblyReference.cache
+C:\Users\Tanner\source\repos\Week 1 Chalenges\Week 1 Chalenges\obj\Debug\Week 1 Chalenges.csproj.CoreCompileInputs.cache
+C:\Users\Tanner\source\repos\Week 1 Chalenges\Week 1 Chalenges\obj\Debug\Week 1 Chalenges.csproj.CopyComplete
+C:\Users\Tanner\source\repos\Week 1 Chalenges\Week 1 Chalenges\obj\Debug\Week 1 Chalenges.dll
+C:\Users\Tanner\source\repos\Week 1 Chalenges\Week 1 Chalenges\obj\Debug\Week 1 Chalenges.pdb
